@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVVM</string>
+    <string name="get_movie">Get Movie Name</string>
 </resources>
